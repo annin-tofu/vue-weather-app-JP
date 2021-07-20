@@ -100,6 +100,9 @@ export default {
   padding: 0;
   box-sizing: border-box;
 }
+
+@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
+
 body {
   font-family: "montserrat", sans-serif;
 }

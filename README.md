@@ -107,4 +107,12 @@ We need to pull API from weather database @openweather.org
 
 2. Create key with VueApp as API key name
    ￼
+
 # vue2-weather-app
+
+Use Vue2 instead of Vue3
+
+# import Google Fonts in CSS
+
+to import Montserrat Font in CSS, write the following
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
