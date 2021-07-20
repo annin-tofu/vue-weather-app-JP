@@ -116,3 +116,10 @@ Use Vue2 instead of Vue3
 
 to import Montserrat Font in CSS, write the following
 @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+# To Deploy on Vercel/Netlify
+
+just specify
+"Build setting" => vue-cli-service build
+
+leave everything else, and deploy.
