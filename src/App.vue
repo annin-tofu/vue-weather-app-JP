@@ -10,7 +10,7 @@
         <input
           type="text"
           class="search-bar"
-          placeholder="Location (for example, Tokyo)"
+          placeholder="地名を入力 (例：Tokyo)"
           v-model="query"
           @keypress="fetchWeather"
         />
