@@ -123,3 +123,4 @@ just specify
 "Build setting" => vue-cli-service build
 
 leave everything else, and deploy.
+# vue-weather-app-JP
